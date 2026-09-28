@@ -1,0 +1,6 @@
+crewai
+litellm
+python-dotenv
+pandas
+numpy
+# growwapi   # uncomment once you have a Groww Trading API subscription
